@@ -2,3 +2,4 @@ Hello Git!
 This is the first file in my first reposetory!
 New Style Sheet added!
 New Line added!
+Added a new Image!
